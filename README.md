@@ -5,7 +5,7 @@ A set of small molecular compounds with measured ability to inhibit HIV-1 replic
 Each compound has label that determined whether is active or inactiv against the HIV-1 protein target.
 ## Dataset
 
-Under data, you will find the HIV.csv that contains around 40.000 compounds with their corresponding labels.
+Under data, you will find the molecules_HIV.csv that contains around 40.000 compounds with their corresponding labels.
 
 ## Requirements
 
